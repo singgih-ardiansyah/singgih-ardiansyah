@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @singgih-ardiansyah
 - 👀 I’m interested in IoT and Machine Learning
-- 🌱 I’m currently learning C/C++ and Python
-- 📫 How to reach me on ardspace.web.id
+- 🌱 I’m currently Chief Executive Officer at include.co.id
+- 📫 I'm sharing on ardspace.web.id
 
 <!---
 singgih-ardiansyah/singgih-ardiansyah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
