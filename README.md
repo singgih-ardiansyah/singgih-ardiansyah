@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @singgih-ardiansyah
-- 👀 I’m interested in IoT and Machine Learning
-- 🌱 I’m currently Chief Executive Officer at include.co.id
-- 📫 I'm sharing on ardspace.web.id
+- 👀 I’m expert on AI Vision, AIoT, Networking & System Architecture
+- 🌱 I’m currently Chief Executive Officer at includevision.com & include.co.id 
+- 📫 I'm sharing on instagram @singgih.ard
 
 <!---
 singgih-ardiansyah/singgih-ardiansyah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
