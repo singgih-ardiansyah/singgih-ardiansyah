@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @singgih-ardiansyah
 - 👀 I’m expert on AI Vision, AIoT, Networking & System Architecture
-- 🌱 I’m currently Chief Executive Officer at includevision.com & include.co.id 
+- 🌱 I’m currently Chief Executive Officer at INCLUDE ( include.co.id & includevision.com )
 - 📫 I'm sharing on instagram @singgih.ard
 
 <!---
